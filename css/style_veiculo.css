@@ -1,0 +1,52 @@
+
+#geral{
+    width: 500px;
+    min-height: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    font-family: Verdana;
+}
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#div-form-carro, #div-lista-veiculo{
+    width: 100%;
+    padding: 5px;
+    margin: 20px 0;
+    background-color: rgb(152, 85, 155);
+    color: rgb(94, 135, 170);
+}
+
+#form-carro{
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+label, input{
+    display: block;
+    margin: 15px 0;
+}
+
+input{
+    width: 230px;
+    height: 20px;
+}
+
+label{
+    color: rgb(209, 195, 219);
+}
+
+#div-lista-veiculo{
+    width: 100%;
+    min-height: 450px;
+    background-color: rgb(126, 104, 151);
+}
+
+button{
+    width: 230px;
+    height: 40;
+}
